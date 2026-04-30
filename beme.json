@@ -1,5 +1,4 @@
 [
-    // --- SITUACIONES SOCIALES (1-10) ---
     "> pido comida a domicilio\n> el repartidor me entrega la pizza y me dice 'que aproveche'\n> le respondo 'igualmente'\n> cierro la puerta lentamente\n> quiero mudarme de planeta",
     "> en el metro, todo lleno\n> le cedo mi asiento a una señora que parece embarazada\n> me dice 'no estoy embarazada, solo he engordado'\n> me bajo en la siguiente parada aunque faltaban 5 para la mía",
     "> me encuentro a un antiguo compañero de clase\n> levanta la mano para chocar los cinco\n> yo levanto el puño\n> él cambia a puño y yo a mano abierta\n> terminamos agarrándonos la mano de forma extraña\n> no hemos vuelto a hablar",
@@ -10,8 +9,6 @@
     "> veo a alguien saludando con la mano a lo lejos\n> le devuelvo el saludo con una gran sonrisa\n> pasa por mi lado y abraza a la persona que estaba detrás de mí\n> saco el móvil inmediatamente y finjo escribir un mensaje muy importante",
     "> voy al cajero automático\n> saco 50 euros\n> la máquina hace ruido pero no sale el dinero\n> me quedo mirando la ranura durante 5 minutos como un idiota\n> la señora de detrás me pregunta si he terminado\n> me voy sin mi dinero por pura vergüenza",
     "> me invitan a una fiesta en una casa\n> no conozco a nadie excepto al anfitrión\n> el anfitrión desaparece a los 5 minutos\n> me paso las siguientes 3 horas acariciando al perro del dueño en una esquina\n> el perro se va a dormir\n> me quedo solo mirando la pared",
-
-    // --- TECNOLOGÍA Y SOPORTE (11-20) ---
     "> trabajo en soporte informático\n> usuario llama indignado porque su ratón no funciona\n> le pido que compruebe si la luz láser de abajo está encendida\n> 'espera, le doy la vuelta... ah, es que lo estaba usando del revés'\n> me pide perdón y cuelga\n> necesito un aumento",
     "> intento programar un script sencillo de 10 líneas\n> error de sintaxis en la línea 4\n> reviso durante 2 horas\n> busco en foros, leo la documentación\n> había puesto coma en lugar de punto y coma\n> la informática es mi pasión",
     "> me compro un teclado mecánico carísimo\n> suena como una ametralladora cada vez que tecleo\n> entro a una reunión por zoom sin silenciar el micro\n> '¿alguien está talando árboles en su casa?'\n> desconecto el cable de internet por pánico",
@@ -22,8 +19,6 @@
     "> compro unos auriculares con cancelación de ruido\n> me los pongo en la oficina, música a tope\n> empiezo a tararear sin darme cuenta\n> me quito los auriculares 20 minutos después\n> todos mis compañeros me están mirando\n> resulta que estaba cantando a grito pelado",
     "> descubro una IA que genera código\n> le pido que haga mi trabajo de la universidad\n> me entrega un código perfecto\n> el profesor me llama a su despacho\n> '¿por qué tu código tiene comentarios explicativos en chino?'\n> suspenso directo",
     "> me paso a linux para sentirme hacker\n> abro la terminal, escribo 'sudo rm -rf /'\n> por curiosidad, para ver si me avisa\n> no avisa\n> el sistema desaparece frente a mis ojos",
-
-    // --- TRABAJO Y ENTREVISTAS (21-30) ---
     "> entrevista de trabajo por videollamada\n> me pongo camisa y corbata, pero abajo llevo calzoncillos de bob esponja\n> el entrevistador me pide que me levante para buscar un papel\n> me levanto sin pensar\n> silencio en la llamada\n> 'nos pondremos en contacto contigo'",
     "> primer día de trabajo en la oficina\n> voy a la máquina de café\n> no sé cómo funciona, pulso un botón al azar\n> sale solo agua hirviendo\n> me la bebo para que nadie sospeche que soy un inútil\n> me quemo la lengua y no puedo hablar en todo el día",
     "> reunión con el jefe para pedir un aumento\n> practico mi discurso en el espejo durante horas\n> entro a su despacho\n> él me dice 'estamos recortando personal y vas a tener que hacer horas extra gratis'\n> yo respondo 'me parece justo'\n> salgo del despacho llorando internamente",
@@ -34,8 +29,6 @@
     "> me toca hacer una presentación al cliente más importante\n> el proyector no funciona\n> el técnico de IT viene, apaga y enciende, y funciona\n> todo el mundo me mira como si yo fuera un cavernícola\n> empiezo a sudar frío",
     "> me encierro en el baño de la oficina para descansar 5 minutos\n> me quedo dormido sentado en el retrete\n> me despierta el de mantenimiento apagando las luces a las 8 de la tarde\n> me pasé medio turno durmiendo en el baño",
     "> mi jefe me pregunta si sé usar Excel nivel avanzado\n> le digo que sí, por supuesto\n> me pasa un documento con macros, tablas dinámicas y scripts en VBA\n> busco en google 'cómo sumar dos casillas en excel'\n> me descubren a los 10 minutos",
-
-    // --- ESCUELA Y UNIVERSIDAD (31-40) ---
     "> primer día de universidad\n> me siento en la primera fila para parecer aplicado\n> el profesor empieza a hablar de física cuántica\n> tomo apuntes frenéticamente durante una hora\n> el profesor dice 'y esto es todo por la clase de 5º año'\n> yo soy de 1º de letras\n> salgo disimuladamente",
     "> examen final, tipo test\n> las respuestas son A, A, A, A, A\n> mi cerebro me dice que es una trampa psicológica del profesor\n> cambio todas las respuestas para que parezca más aleatorio\n> saco un 0\n> el profesor se ríe de mí en la revisión",
     "> exposición en grupo\n> mis 3 compañeros no hacen nada, preparo todo yo\n> día de la presentación\n> me pongo enfermo y no puedo ir\n> mis compañeros exponen, no saben responder ninguna pregunta\n> nos suspenden a todos por igual\n> la magia del trabajo en equipo",
@@ -46,8 +39,6 @@
     "> intento ligar con la compañera de al lado pasándole una nota\n> el profesor intercepta la nota\n> la lee en voz alta para toda la clase\n> '¿quieres jugar al minecraft conmigo esta tarde?'\n> la chica dice que no delante de todos",
     "> defensa del Trabajo de Fin de Grado\n> el tribunal me hace una pregunta súper compleja\n> me quedo en blanco durante 30 segundos reales\n> bebo agua para ganar tiempo\n> me atraganto con el agua y empiezo a toser sin parar\n> me aprueban por pena",
     "> compro libros de texto por 300 euros a principio de curso\n> el profesor no los usa ni una sola vez en todo el año\n> intento venderlos de segunda mano\n> 'ha salido la nueva edición, esos ya no valen'\n> los uso para calzar un mueble viejo",
-
-    // --- GIMNASIO Y DEPORTE (41-50) ---
     "> me apunto al gym en enero, resolución de año nuevo\n> me compro ropa deportiva de marca, batidos de proteínas, guantes\n> voy el primer día, corro 10 minutos en la cinta\n> me da un flato horrible, casi vomito\n> no he vuelto a pisar un gimnasio desde 2018",
     "> intento hacer sentadillas pesadas\n> bajo hasta el fondo\n> escucho un RRRRIIIP gigante\n> mis pantalones cortos se han rajado de lado a lado\n> llevo calzoncillos de corazones\n> huyo del gimnasio caminando de espaldas hacia la puerta",
     "> me pongo a hacer dominadas en el parque del barrio\n> unos niños me miran impresionados\n> intento hacer una a una mano para chulear\n> resbalo y caigo de espaldas en el barro\n> los niños se ríen y me señalan",
@@ -58,8 +49,6 @@
     "> me pongo a levantar pesas frente al espejo del gym\n> pongo cara de tipo duro mientras hago el esfuerzo\n> me doy cuenta de que la pesa de 20kg que creía levantar es en realidad de 5kg\n> el espejo me devuelve la mirada de un payaso",
     "> clase de spinning\n> el monitor grita '¡subid la resistencia y dadlo todo!'\n> subo la resistencia al máximo\n> mis piernas se bloquean por completo, los pedales dejan de girar\n> sigo moviendo el cuerpo simulando que pedaleo\n> el monitor me guiña un ojo, sabe que soy un fraude",
     "> decido jugar un partido de fútbol con amigos después de 5 años sin deporte\n> corro a por el primer balón del partido\n> piso mal, me tuerzo el tobillo, me caigo de cara\n> minuto 1 de partido\n> me pasan a ser el portero fijo el resto de mi vida",
-
-    // --- COCINA Y COMIDA (51-60) ---
     "> intento hacer un pastel de cumpleaños para mi madre\n> confundo el azúcar con la sal fina\n> el pastel queda precioso, esponjoso, perfecto\n> le canto el cumpleaños feliz, ella da el primer bocado\n> escupe el pastel en la mesa tosiendo\n> al menos la intención era buena",
     "> vivo solo, intento hacer pasta hirviendo agua\n> pongo los espaguetis\n> me voy a jugar una partida rápida al pc\n> 40 minutos después huele a quemado\n> el agua se evaporó y los espaguetis se fusionaron con la olla\n> tiro la olla a la basura, compro kebab",
     "> intento impresionar a una cita cocinando cena italiana\n> al escurrir la pasta, se me cae toda por el fregadero\n> la recojo rápidamente y le echo salsa por encima\n> 'qué toque tan crujiente', me dice ella\n> eran restos de estropajo\n> no hubo segunda cita",
@@ -70,8 +59,6 @@
     "> decido comer sano y me preparo un batido verde\n> espinacas, apio, manzana, kiwi\n> lo bato todo, tiene un color radiactivo\n> lo pruebo\n> sabe a césped triturado con sabor a tristeza\n> me lo bebo entero llorando porque me costó 5 euros en ingredientes",
     "> intento abrir una lata de atún, se rompe la anilla\n> busco el abrelatas, no tengo\n> intento abrirla con un cuchillo dando golpes\n> resbalo y apuñalo la encimera\n> el atún sale disparado, huele a gato en toda la cocina\n> me voy a dormir con hambre",
     "> como comida picante india por primera vez\n> 'no te preocupes, aguanto bien el picante', le digo al camarero\n> primer bocado, lloro, sudo, veo a mis antepasados\n> me bebo el agua de mi vaso, el de mi amigo y el florero de la mesa\n> mi estómago declara la tercera guerra mundial esa noche",
-
-    // --- CITAS Y ROMANCE (61-70) ---
     "> primera cita en una cafetería con una chica de tinder\n> llevamos 10 minutos de silencio incómodo\n> para romper el hielo digo '¿te gustan las palomas?'\n> me mira como si fuera un psicópata\n> 'tengo que ir al baño', dice\n> la veo cruzar la calle por la ventana 2 minutos después",
     "> me gusta una compañera de trabajo\n> le pago el café en la máquina para quedar bien\n> 'oh, gracias, eres como un hermano mayor para mí'\n> boom, directo a la friendzone a velocidad mach 3\n> al menos el café era de 50 céntimos",
     "> voy al cine con mi cita\n> intento hacer el movimiento clásico de bostezar y pasar el brazo por sus hombros\n> calculo mal, le doy un manotazo en la cara y le tiro las palomitas\n> pasamos el resto de la película recogiendo palomitas del suelo",
@@ -82,8 +69,6 @@
     "> vamos a cenar y a la hora de pagar intento sacar la tarjeta rápidamente para invitar\n> saco la tarjeta de fidelidad del supermercado Día\n> la paso por el datáfono, obviamente no funciona\n> ella suspira y paga con la suya\n> me siento un hombre mantenido",
     "> al despedirnos después de la cita, voy a darle dos besos\n> ella va a darme un abrazo\n> chocamos las cabezas con fuerza\n> ella se muerde el labio y yo me mareo\n> 'bueno, adiós', decimos a la vez sobándonos las frentes",
     "> preparo un poema súper romántico para declararme\n> se lo leo bajo la luz de la luna\n> me tiembla la voz de la emoción\n> ella me responde 'jaja, bro, eres un poeta, ¿se lo vas a mandar a tu novia?'\n> mi alma abandona mi cuerpo",
-
-    // --- COMPRAS Y TRANSPORTE PÚBLICO (71-80) ---
     "> en el autobús\n> pulso el botón de parada\n> el conductor no para\n> me da demasiada vergüenza gritar que pare\n> me bajo 3 paradas después y camino 40 minutos de vuelta a mi casa",
     "> voy a comprar preservativos a la farmacia por primera vez\n> me pongo muy nervioso en la cola\n> cuando me toca, la farmacéutica me pregunta '¿algo más?'\n> grito '¡NO, SOLO ESTO, ES PARA UN TRABAJO DEL COLEGIO!'\n> tengo 23 años",
     "> pruebo ropa en el probador de una tienda\n> me pongo una camiseta que es claramente de una talla menos\n> se me queda atascada en los hombros, no puedo sacarla ni meterla\n> paso 15 minutos peleando, sudo, me asfixio\n> salgo del probador y la compro puesta por vergüenza",
@@ -94,8 +79,6 @@
     "> control de seguridad del aeropuerto\n> el arco pita cuando paso\n> me quito zapatos, cinturón, reloj\n> vuelve a pitar\n> me cachean frente a todo el mundo\n> era una moneda de un céntimo en el bolsillo pequeño del pantalón\n> me miran como a un terrorista de bajo presupuesto",
     "> voy a comprar un regalo para el cumpleaños de mi madre\n> elijo un perfume carísimo\n> al salir de la tienda tropiezo con la alfombra\n> el frasco cae y estalla en mil pedazos\n> toda la tienda huele a rosas y yo a fracaso",
     "> entro a unos baños públicos de un centro comercial\n> la puerta del cubículo no cierra bien\n> me siento y la sujeto con el pie\n> alguien empuja fuerte, mi pie resbala\n> la puerta se abre de par en par, hacemos contacto visual\n> cierro los ojos deseando que eso me haga invisible",
-
-    // --- ANIMALES Y NATURALEZA (81-90) ---
     "> voy caminando por la calle, un gato se me acerca\n> me agacho a acariciarlo sintiéndome elegido por la naturaleza\n> el gato me frota la pierna y ronronea\n> me da un zarpazo de la nada, me bufa y sale corriendo\n> las mujeres me tratan igual",
     "> de acampada en el bosque con amigos para desconectar\n> escucho un ruido fuera de la tienda por la noche\n> pienso que es un oso, me despido de la vida mentalmente\n> salgo con una linterna temblando\n> era un erizo comiéndose nuestras patatas fritas",
     "> compro un pez y una pecera para tener compañía\n> le pongo nombre, le hablo todos los días\n> al tercer día flota boca arriba\n> mi instinto paternal dura menos que la batería de un móvil viejo",
@@ -106,8 +89,6 @@
     "> monto a caballo por primera vez en una excursión\n> el guía dice 'demuéstrale quién manda'\n> digo '¡arre!' con voz de pito\n> el caballo me ignora, baja la cabeza para comer hierba\n> me quedo ahí parado 10 minutos mientras el resto del grupo desaparece a lo lejos",
     "> dejo la ventana abierta en verano para que corra el aire\n> entra un murciélago gigante a la habitación\n> me encierro en el baño con una escoba durante 3 horas\n> termino durmiendo en la bañera\n> el murciélago ahora es el propietario legal de la casa",
     "> acaricio a un perro precioso por la calle, le pregunto a la dueña la raza\n> 'es un lobo checoslovaco de pura raza'\n> el perro estornuda y se tira un pedo a la vez\n> nos asustamos los tres",
-
-    // --- MISCELÁNEA E INTERNET (91-100) ---
     "> decido cambiar mi vida y ser un madrugador exitoso\n> pongo la alarma a las 5 AM\n> suena la alarma, la apago 'solo 5 minutos más'\n> abro los ojos, son las 11:30 AM, el sol brilla, los pájaros cantan\n> mi vida es una mentira constante",
     "> discuto con alguien en un foro de internet\n> escribo un párrafo de 500 palabras destruyendo todos sus argumentos\n> uso lógica, datos y filosofía pura\n> le doy a responder\n> me responde: 'mucho texto, bro + ratio + lloro'\n> me voy a dormir enfadado y derrotado",
     "> me grabo cantando en la ducha porque creo que lo hago genial\n> salgo, me pongo los cascos y escucho la grabación\n> sueno como una foca ahogándose en un motor diésel\n> borro el audio y desinstalo la grabadora",
