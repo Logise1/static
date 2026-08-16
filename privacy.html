@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>BetterChat Privacy Policy</title>
+    <style>
+      body {
+        max-width: 720px;
+        margin: 40px auto;
+        padding: 0 20px 60px;
+        font-family: Segoe UI, system-ui, sans-serif;
+        line-height: 1.5;
+        color: #111;
+      }
+      h1 {
+        font-size: 1.6rem;
+      }
+      h2 {
+        font-size: 1.15rem;
+        margin-top: 1.6em;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>BetterChat Privacy Policy</h1>
+    <p>Last updated: August 16, 2026</p>
+    <p>
+      BetterChat is a Chrome extension that lets you share photos and GIFs in YouTube live
+      chat. This policy explains what data is accessed and where it goes.
+    </p>
+
+    <h2>Single purpose</h2>
+    <p>
+      The only purpose of BetterChat is to upload images you choose and display those images
+      in YouTube live chat for people who also have the extension.
+    </p>
+
+    <h2>Data we access on your device</h2>
+    <ul>
+      <li>
+        <strong>YouTube live chat content (locally):</strong> the extension reads chat message
+        text in the page to detect image IDs and to insert the upload button. Chat messages
+        are not sent to us and are not stored on our servers.
+      </li>
+      <li>
+        <strong>Files you upload:</strong> when you pick, paste, or drop a photo or GIF, that
+        file is sent to Greenbase so it can be shared in chat.
+      </li>
+      <li>
+        <strong>Hide-list preference:</strong> if you right-click a photo and hide that user’s
+        images, the preference is saved in your browser’s localStorage on YouTube. It stays
+        on your device.
+      </li>
+    </ul>
+
+    <h2>Data sent to third parties</h2>
+    <p>
+      Uploaded images are sent to
+      <a href="https://greenbase.arielcapdevila.com">greenbase.arielcapdevila.com</a>
+      (Greenbase) using POST /upload. The chat only receives a file ID, not the image URL.
+      Other BetterChat users download the file with GET /file/{id} through the extension.
+      We do not operate an account system and we do not receive your YouTube password.
+    </p>
+    <p>
+      We do not sell user data. Images are transferred to Greenbase only to provide the
+      extension’s image-sharing feature.
+    </p>
+
+    <h2>What we do not collect</h2>
+    <p>
+      We do not collect names, emails, health data, payment data, passwords, location, or
+      browsing history. We do not keylog, and we do not sell or use data for credit scoring
+      or advertising.
+    </p>
+
+    <h2>Remote code</h2>
+    <p>
+      All extension JavaScript and CSS are included in the Chrome Web Store package. We do
+      not load remote scripts or WebAssembly, and we do not use eval().
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      For privacy questions about BetterChat, contact the developer listed on the Chrome Web
+      Store item page.
+    </p>
+  </body>
+</html>
